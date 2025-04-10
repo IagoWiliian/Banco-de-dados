@@ -34,5 +34,3 @@ SELECT * FROM tb_produtos WHERE preco > 500.00;
 SELECT * FROM tb_produtos WHERE preco < 500.00;
 
 UPDATE tb_produtos SET preco = 3000.00 WHERE id = 5;
-
-
